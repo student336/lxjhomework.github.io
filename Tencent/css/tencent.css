@@ -11,6 +11,8 @@
 	width: 1400px;
 	height: 1200px;
 	margin: 0 auto;
+	position: absolute;
+	left: 50px;
 }
 .search{
 	height: 30px;
@@ -42,7 +44,7 @@
 	border: darkgray solid 1px;
 	position: absolute;
 	top: 25px;
-	right: 60px;
+	right: 0px;
 }
 .a{
 	color: #6495ED;
@@ -104,20 +106,20 @@ img{
 	height: 600px;
 	position: absolute;
 	top: 270px;
-	left: 600px;
+	left: 520px;
 }
 .right{
 	width: 405px;
 	height: 600px;
 	position: absolute;
 	top: 270px;
-	right: 59px;
+	left: 995px;
 }
 .xb1{
 	width: 30px;
 	height: 30px;
 	position: absolute;
-	left: 1380px;
+	left: 1300px;
 	top: 25px;
 	overflow: hidden;
 }
@@ -135,7 +137,7 @@ img{
 	width: 30px;
 	height: 30px;
 	position: absolute;
-	left: 1330px;
+	left: 1250px;
 	top: 25px;
 	overflow: hidden;
 }
