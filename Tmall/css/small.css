@@ -1,0 +1,87 @@
+@media only screen and (max-width: 800px){
+	.head{
+					width: 100%;
+					height: auto;
+					
+					display: flex;
+					flex-direction: row;
+					flex-wrap: wrap;
+					justify-content: center;
+				}
+				.pic{
+					width: 292px;
+					margin-left: 50px;
+				}
+				.sousuokuang{
+					width: 200%;
+					height: 30px;
+					margin-bottom: 20px;
+				}
+				.sub{
+					cursor:pointer;
+				}
+				ul{
+					display: flex;
+					flex-wrap: wrap;
+				}
+				li{
+					width: 25%;
+				}
+				.content{
+					width: 100%;
+					height: auto;
+					border: whitesmoke 1px solid;
+					display: flex;
+					justify-content: space-around;
+					flex-wrap: wrap;
+				}
+				.one{
+					width: 70%;
+					height: 300px;
+					border: whitesmoke 3px solid;
+					margin-top: 5%;
+				}
+				.two{
+					width: 70%;
+					height: 500px;
+					border: whitesmoke 3px solid;
+					margin-top: 5%;
+				}
+				.three{
+					width: 70%;
+					height: 500px;
+					border: whitesmoke 3px solid;
+					margin-top: 5%;
+				}
+				.four{
+					width: 70%;
+					height: 500px;
+					border: whitesmoke 3px solid;
+					margin-top: 5%;
+				}
+				.five{
+					width: 70%;
+					height: 500px;
+					border: whitesmoke 3px solid;
+					margin-top: 5%;
+				}
+				.six{
+					width: 70%;
+					height: 500px;
+					border: whitesmoke 3px solid;
+					margin-top: 5%;
+				}
+				.shop1{
+					width: 80%;
+					height: 100%;
+				}
+				.miaoshu{
+					display: block;
+					width: auto;
+					height: auto;
+				}
+				.dddd{
+					width: 20%;
+				}
+				
+}

@@ -1,0 +1,132 @@
+			.head{
+				width: 100%;
+				height: auto;
+				display: flex;
+				flex-direction: row;
+				justify-content: space-between;
+				align-items: center;
+			}
+			.pic{
+				width: 292px;
+				
+			}
+			.search{
+				display: flex;
+				flex-wrap: nowrap;
+			}
+			.sousuokuang{
+				width:300px;
+				height: 30px;
+				border: blue 1px solid;
+			}
+			.sub{
+				height: 34px;
+				background-color: #DC143C;
+				border: 0px;
+				color: white;
+				cursor: pointer;
+			}
+			ul{
+				display: flex;
+				flex-direction: row;
+				margin: 0;
+				padding: 0;
+				list-style-type: none;
+				justify-content: space-around;
+				background-color: darkred;
+				height: auto;
+				align-items: center;
+			}
+			li{
+				font-size: 20px;
+				color: #FFFFFF;
+				height: 50px;
+				width: 12.5%;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+			li:hover{
+				background-color: #DC143C;
+			}
+			.content{
+				width: 100%;
+				height: auto;
+				display: flex;
+				justify-content: space-around;
+				flex-wrap: wrap;
+			}
+			.one{
+				width: 25%;
+				height: 50%;
+				border: whitesmoke 3px solid;
+				margin-top: 5%;
+				display: flex;
+				flex-wrap: wrap;
+				flex-direction: column;
+				justify-content: space-around;
+			}
+			.two{
+				width: 25%;
+				height: 50%;
+				border: whitesmoke 3px solid;
+				margin-top: 5%;
+				display: flex;
+			}
+			.three{
+				width: 25%;
+				height: 50%;
+				border: whitesmoke 3px solid;
+				margin-top: 5%;
+			}
+			.four{
+				width: 25%;
+				height: 50%;
+				border: whitesmoke 3px solid;
+				margin-top: 5%;
+			}
+			.five{
+				width: 25%;
+				height: 50%;
+				border: whitesmoke 3px solid;
+				margin-top: 5%;
+			}
+			.six{
+				width: 25%;
+				height: 50%;
+				border: whitesmoke 3px solid;
+				margin-top: 5%;
+			}
+			.one:hover{
+				border: crimson 3px solid;
+			}
+			.two:hover{
+				border: crimson 3px solid;
+			}
+			.three:hover{
+				border: crimson 3px solid;
+			}
+			.four:hover{
+				border: crimson 3px solid;
+			}
+			.five:hover{
+				border: crimson 3px solid;
+			}
+			.six:hover{
+				border: crimson 3px solid;
+			}
+			.shop1{
+				width: 100%;
+				display: block;
+				
+			}
+			.jiage{
+				color: #DC143C;
+				font-size: larger;
+				display: block;
+				height: 30px;
+			}
+			
+			
+			
+			
