@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<style>
+			.right{
+				background-color: deeppink;
+				border: 0px;
+				cursor: pointer;
+				width: 100px;
+				height: 60px;
+				border-radius: 10px;
+				position: absolute;
+				top: 680px;
+				left: 520px;
+			}
+			.right:hover{
+				background-color: lightpink;
+				border: white 3px solid;
+			}
+			.wrong{
+				background-color: deeppink;
+				border: 0px;
+				cursor: pointer;
+				width: 100px;
+				height: 60px;
+				border-radius: 10px;
+				position: absolute;
+				top: 680px;
+				left: 820px;
+			}
+			.wrong:hover{
+				background-color: lightpink;
+				border: white 3px solid;
+			}
+			h1{
+				position: absolute;
+				left: 600px;
+			}
+			div{
+				position: absolute;
+				top: 80px;
+				left: 400px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>你爱不爱我嘿嘿</h1>
+		<button class="right" onclick="document.getElementById('myImage').src='img/finish1.png'">超爱</button>
+		
+		<div><img id="myImage" border="0" src="img/unfinish.png" style="text-align:center;"></div>
+		
+		<button class="wrong" onclick="document.getElementById('myImage').src='img/unfinish.png'">嘿嘿</button>
+	</body>
+</html>
