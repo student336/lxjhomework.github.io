@@ -1,0 +1,256 @@
+.head{
+	position: absolute;
+	width: 1400px;
+	height: 100px;
+	left: 50px;
+}
+.logo{
+	position: absolute;
+	top: -20px;
+}
+.logopic{
+	height: 150px;
+}
+.timu{
+	position: absolute;
+	left: 570px;
+	top: 5px;
+}
+.xiaotu1{
+	position: absolute;
+	left: 1250px;
+	top: 30px;
+	width: 30px;
+	height: 30px;
+	overflow: hidden;
+	cursor: pointer;
+}
+#xb1{
+	position: absolute;
+	
+	right: 0px;
+	width: 60px;
+	
+}
+#xb1:hover{
+	position: absolute;
+	left: 0px;
+}
+.xiaotu2{
+	position: absolute;
+	left: 1285px;
+	top: 30px;
+	width: 30px;
+	height: 30px;
+	overflow: hidden;
+	cursor: pointer;
+}
+#xb2{
+	position: absolute;
+	
+	right: 0px;
+	width: 60px;
+	
+}
+#xb2:hover{
+	position: absolute;
+	left:1px;
+}
+.denglu{
+	position: absolute;
+	left: 1340px;
+	top: 30px;
+}
+button{
+	height: 30px;
+	cursor: pointer;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	position: absolute;
+	top: 120px;
+	left: 53px;
+	background-color: #6495ED;
+	width: 1400px;
+}
+li{
+	float: left ;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 175px;
+	text-align: center;
+	cursor: pointer;
+}
+li:hover{
+	background-color: darkgray;
+}
+a{
+	color: white;
+}
+.xiangtan{
+	position: absolute;
+	top: 180px;
+	left: 52px;
+}
+.xtu{
+	width: 1400px;
+}
+.xueyuan{
+	position: absolute;
+	top: 730px;
+	border: #000000 1px solid;
+	left: 1030px;
+	width: 400px;
+	border: 2px lightgray solid;
+}
+hr{
+	color: #A9A9A9;
+}
+.datu{
+	position: absolute;
+	top: 730px;
+	left: 70px;
+}
+.fudaoyuan{
+	width: 800px;
+	height: 460px;
+}
+.guanggao{
+	position: fixed;
+	right: 10px;
+	top: 300px;
+	height: 250px;
+	width: 100px;
+	border: #000000 1px solid;
+	z-index: 999;
+}
+#guanggao{
+	width: 100px;
+	height: 250px;
+	z-index: 999;
+}
+.talk{
+	position: absolute;
+	top: 1250px;
+	left: 60px;
+	width: 1400px;
+	height: 1250px;
+	border: 3px whitesmoke solid;
+}
+.biaoti{
+	position: absolute;
+	top: 55px;
+	left: 500px;
+}
+.article{
+	position: absolute;
+	top: 105px;
+	left: 60px;
+	width: 800px;
+}
+.ludeng{
+	position: absolute;
+	left: 900px;
+	top: 125px;
+}
+#ludeng{
+	width: 400px;
+	border-radius: 10px;
+}
+.pinglun{
+	position: absolute;
+	top: 410px;
+	width: 1400px;
+}
+.plnr1{
+	position: absolute;
+	top: 520px;
+	left: 50px;
+	width: 1300px;
+	height: 150px;
+	border: #D3D3D3 3px solid;
+}
+#touxiang{
+	position: absolute;
+	width: 40px;
+	left: 10px;
+	top: 10px;
+	border-radius: 20px;
+}
+.wenzi{
+	position: absolute;
+	top: 50px;
+	width: 1230px;
+	height: 90px;
+	background-color: #F5F5F5;
+	left: 50px;
+	border-radius: 5px;
+}
+.plnr2{
+	position: absolute;
+	top: 750px;
+	left: 50px;
+	width: 1300px;
+	height: 150px;
+	border: #D3D3D3 3px solid;
+}
+.xie{
+	position: absolute;
+	top: 950px;
+	left: 50px;
+}
+#input1{
+	width: 1300px;
+	height: 200px;
+	border: #6495ED 2px solid;
+}
+#input2{
+	cursor: pointer;
+	position: absolute;
+	top: 230px;
+	left: 1230px;
+}
+.bottom{
+	position: absolute;
+	top: 2550px;
+	left: 10px;
+	width: 1500px;
+	height: 200px;
+	background-color: #000000;
+}
+.end{
+	position: absolute;
+	left: 50px;
+	top: 10px;
+}
+#end{
+	width: 200px;
+}
+.shangye{
+	position: absolute;
+	
+	width: 200px;
+	height: 160px;
+	top: 20px;
+	left: 700px;
+}
+.fengexian{
+	position: absolute;
+	border: #FFFFFF 1px solid;
+	height: 150px;
+	left:900px ;
+	top: 25px;
+	background-color: white;
+}
+.shangye2{
+	position: absolute;
+	width: 200px;
+	height: 160px;
+	top: 30px;
+	left: 1000px;
+	
+}

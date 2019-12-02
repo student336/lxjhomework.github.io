@@ -1,0 +1,119 @@
+.title{
+	position: absolute;
+	top: 20px;
+	left: 60px;
+	background-color: cadetblue ;
+	width: 1400px;
+}
+h1{
+	text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	position: absolute;
+	top: 150px;
+	background-color: chocolate;
+	width: 350px;
+	margin-left: 50px;
+}
+li{
+	padding-left:0px ;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 350px;
+	text-align: center;
+}
+li:hover{
+	background-color: brown;
+}
+h2{
+	text-align: center;
+}
+.gs{
+	background-color: crimson;
+}
+.yunying{
+	background-color: crimson;
+}
+.zuzhi{
+	background-color: crimson;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.gaishu{
+	width: 350px;
+}
+.daoxiatu{
+	position: absolute;
+	left: 58px;
+	top: 313.5px;
+}
+.qianshou{
+	width: 350.5px;
+}
+.content{
+	position: absolute;
+	left: 450px;
+	top: 150px;
+	border: 2px black solid;
+	height:375px ;
+	width: 1000px;
+}
+.nanren{
+	position: absolute;
+	top: 10px;
+	left: 400px;
+	width: 590px;
+	height: 355px;
+}
+.shouye{
+	position: absolute;
+	top: 150px;
+	left: 430px;
+	height: 380px;
+	width: 1030px;
+}
+.liucheng{
+	position: absolute;
+	top: 150px;
+	left: 430px;
+	width: 1000px;
+	height: 400px;
+}
+
+.divide{
+	position: absolute;
+	top: 550px;
+	left: 60px;
+	width: 1400px;
+}
+.run{
+	position: absolute;
+	top: 570px;
+	left: 60px;
+	width: 1400px;
+	border: #000000 1px solid;
+}
+.chuangxin{
+	position: absolute;
+	width: 500px;
+	top: 0px;
+	height: 300px;
+}
+.touzi{
+	position: absolute;
+	width: 500px;
+	top: 0px;
+	left: 600px;
+	height: 300px;
+}
+.renyuan{
+	position: absolute;
+	top: 150px;
+	left: 700px;
+}
