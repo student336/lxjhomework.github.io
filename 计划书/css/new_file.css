@@ -117,3 +117,19 @@ a{
 	top: 150px;
 	left: 700px;
 }
+.bottom{
+	width: 1500px;
+	background-color: #000000;
+	height: 150px;
+	position: absolute;
+	top: 600px;
+	left: 20px;
+}
+.bottom1{
+	width: 1500px;
+	background-color: #000000;
+	height: 150px;
+	position: absolute;
+	top: 850px;
+	left: 20px;
+}
